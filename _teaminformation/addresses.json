@@ -1,0 +1,33 @@
+{
+  "addresses": {
+    "0x1": {
+      "pk": "...",
+      "available_crabs": [],
+      "number_of_teams": 0,
+      "last_mine": 1655803789.1743226
+    },
+    "0x2": {
+      "pk": "...",
+      "available_crabs": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "number_of_teams": 0,
+      "last_mine": 1655803811.2759557
+    },
+    "0x3": {
+      "pk": "...",
+      "available_crabs": [],
+      "number_of_teams": 0,
+      "last_mine": 1655802597.1343398
+    },
+    "0x4": {
+      "pk": "...",
+      "available_crabs": [],
+      "number_of_teams": 0,
+      "last_mine": 1655800488.236421
+    }
+  }
+}
