@@ -3,11 +3,6 @@
 It is short but ensures all systems are working correctly. 
 '''
 
-import sys
-
-sys.path.insert(0, 'C:')
-sys.path.insert(0, 'C:')
-
 import time
 from threading import Thread, active_count
 
@@ -16,13 +11,6 @@ from helpers.readteams import list_teams
 from helpers.gameloop import gameLoopThread
 from libs.web3client.game import Team
 from libs.web3client.txs.txs import Transacter
-
-
-
-
-
-
-
 
 
 def main():
